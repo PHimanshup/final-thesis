@@ -1,0 +1,20 @@
+# Virtual environment
+venv/
+env/
+
+# Raw and processed data (too large for git, and not yours to redistribute)
+data/raw/*
+!data/raw/cicids2017/.gitkeep
+!data/raw/unsw_nb15/.gitkeep
+data/processed/*
+
+# Trained models (can be large; regenerate by re-running the scripts)
+models/*
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS/editor junk
+.DS_Store
+.vscode/

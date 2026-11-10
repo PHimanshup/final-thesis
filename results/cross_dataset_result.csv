@@ -1,0 +1,2 @@
+model,tested_on,precision,recall,f1_score,auc_roc,false_positive_rate
+"Autoencoder (common features, trained on CICIDS2017)",UNSW-NB15,0.017614535997361853,0.15116967574240037,0.03155252102820623,0.33826315663348433,0.4286636404642989

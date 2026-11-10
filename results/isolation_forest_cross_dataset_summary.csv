@@ -1,0 +1,3 @@
+experiment,mean,lowest,highest
+A-IF: within CICIDS2017,0.746,0.741,0.75
+B-IF: CICIDS2017 -> UNSW-NB15,0.333,0.331,0.335

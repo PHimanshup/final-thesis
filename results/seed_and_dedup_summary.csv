@@ -1,0 +1,4 @@
+experiment,mean,lowest,highest
+A: within CICIDS2017,0.71,0.685,0.743
+B1: CICIDS2017 -> UNSW-NB15 (deduplicated),0.334,0.262,0.377
+"B2: CICIDS2017 -> UNSW-NB15 (raw, duplicates kept)",0.22,0.108,0.302
